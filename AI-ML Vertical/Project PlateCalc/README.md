@@ -2,6 +2,8 @@ Hi!
 
 Operating Manual :
 
+-> The actual working code is the ProjectPlateCalc and the Draft is the file that contains the files that were made in progress and contains errors in order to reach the final working code.
+
 -> Run the Kaggle notebook on T4 GPU 
 
 -> The code takes approx 2-3 hrs to run
